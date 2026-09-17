@@ -1,0 +1,24 @@
+.dashboard-body {
+    background-color: #f4f6f9;
+}
+
+.dashboard-sidebar .nav-link {
+    color: #333;
+    padding: 0.5rem 0.75rem;
+    border-radius: 6px;
+}
+
+.dashboard-sidebar .nav-link:hover {
+    background-color: #e9ecef;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    border-radius: 10px;
+}
+
+#notif-toast-container .toast {
+    min-width: 280px;
+    border-left: 4px solid #0d6efd;
+}
